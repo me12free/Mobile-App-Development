@@ -104,7 +104,7 @@ fun main() {
     councilMember3.showDetails()
     councilMember3.study()
 
-    //Bonus: Demonstrating abstraction using abstract class SchoolMember
+    //Bonus:Demonstrating abstraction using abstract class SchoolMember
     val councilMemberAbstract = StudentCouncilMember("Alice", "President")
     councilMemberAbstract.greet()
     councilMemberAbstract.showRole()
